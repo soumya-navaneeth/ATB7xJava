@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003_MathOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005_StngName.java" afterDir="false" />
+    <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/$Lab007Filename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006_MultipleMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002_comments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "Application.Lab005.executor": "Run",
     "Application.Lab005_StngName.executor": "Run",
     "Application.Lab005_StrngName.executor": "Run",
+    "Application.Lab007_Filename.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -69,7 +68,7 @@
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab005_StngName">
+  <component name="RunManager" selected="Application.Lab007_Filename">
     <configuration name="Lab003_MathOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab003_MathOperators" />
       <module name="ATB7xJava" />
@@ -109,8 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab007_Filename" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab007_Filename" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab007_Filename" />
         <item itemvalue="Application.Lab005_StngName" />
         <item itemvalue="Application.Lab003_MathOperators" />
         <item itemvalue="Application.Lab005_StngName" />
@@ -142,11 +155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720336009169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1720523828828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720523828828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
