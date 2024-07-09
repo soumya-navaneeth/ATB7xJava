@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003_MathOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005_StngName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001_HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002_comments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +51,72 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab001_HelloWorld.executor": "Run",
     "Application.Lab002.executor": "Run",
+    "Application.Lab002_comments.executor": "Run",
+    "Application.Lab003_MathOperators.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab005_StngName.executor": "Run",
+    "Application.Lab005_StrngName.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex_07072024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab005_StngName">
+    <configuration name="Lab003_MathOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab003_MathOperators" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab005_StngName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab005_StngName" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab005_StngName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab005_StngName" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab005_StngName" />
+        <item itemvalue="Application.Lab003_MathOperators" />
+        <item itemvalue="Application.Lab005_StngName" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720335515155</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1720336009169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720336009169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
