@@ -1,6 +1,6 @@
 package ex_13072024;
 
-public class Lab007 {
+public class Lab007_DataTypes {
     public static void main(String[] args) {
 
         // data_type variable_name = variable_value(literal)
