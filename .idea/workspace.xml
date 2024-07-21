@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab007.java" afterDir="false" />
+    <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab008_ByteLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab009_Float.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab010_CharType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab011_CharType2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab012_VariableName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab013_Formatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab014_Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015_Numbersystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab016_SimpleCalci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006_MultipleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006_MultipleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab007_DataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +68,18 @@
     "Application.Lab005_StrngName.executor": "Run",
     "Application.Lab006_MultipleMain.executor": "Run",
     "Application.Lab007.executor": "Run",
+    "Application.Lab007_DataTypes.executor": "Run",
     "Application.Lab007_Filename.executor": "Run",
+    "Application.Lab008.executor": "Debug",
+    "Application.Lab008_ByteLong.executor": "Run",
+    "Application.Lab009_Float.executor": "Run",
+    "Application.Lab010_CharType.executor": "Run",
+    "Application.Lab011_CharType2.executor": "Run",
+    "Application.Lab012_VariableName.executor": "Run",
+    "Application.Lab013_Formatting.executor": "Run",
+    "Application.Lab014_Concat.executor": "Run",
+    "Application.Lab015_Numbersystem.executor": "Run",
+    "Application.Lab016_SimpleCalci.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -70,20 +90,7 @@
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab007">
-    <configuration name="Lab003_MathOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab003_MathOperators" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab013_Formatting">
     <configuration name="Lab005_StngName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab005_StngName" />
       <module name="ATB7xJava" />
@@ -97,34 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab005_StngName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab005_StngName" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab006_MultipleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab006_MultipleMain" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab007" />
+    <configuration name="Lab012_VariableName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab012_VariableName" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +117,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007_Filename" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab007_Filename" />
+    <configuration name="Lab013_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab013_Formatting" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab014_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab014_Concat" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab015_Numbersystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab015_Numbersystem" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab016_SimpleCalci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab016_SimpleCalci" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab007" />
-        <item itemvalue="Application.Lab006_MultipleMain" />
-        <item itemvalue="Application.Lab007_Filename" />
-        <item itemvalue="Application.Lab005_StngName" />
-        <item itemvalue="Application.Lab003_MathOperators" />
+        <item itemvalue="Application.Lab013_Formatting" />
+        <item itemvalue="Application.Lab016_SimpleCalci" />
+        <item itemvalue="Application.Lab015_Numbersystem" />
+        <item itemvalue="Application.Lab014_Concat" />
+        <item itemvalue="Application.Lab012_VariableName" />
       </list>
     </recent_temporary>
   </component>
@@ -200,12 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720528749980</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721580653215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721580653215</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Added new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new" />
   </component>
 </project>
