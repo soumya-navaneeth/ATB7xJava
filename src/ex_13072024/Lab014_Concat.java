@@ -2,6 +2,13 @@ package ex_13072024;
 
 public class Lab014_Concat {
     public static void main(String[] args) {
+/* Concatenate: forms a new String that is the combination of multiple strings
+  using + operator OR Concat() Method */
+//   Simple Concat
+        String s="Dhanvi"+" Rao";
+        System.out.println(s);//Dhanvi Rao
+
+//  + used as Addition
         int a = 10;
         int b= 34;
         int c= a+b;
@@ -26,5 +33,7 @@ public class Lab014_Concat {
         System.out.println(x+s3+y);
         System.out.print("x+y+s3+y+s3+x+y: ");
         System.out.println(x+y+s3+y+s3+x+y);
+
+
     }
 }
