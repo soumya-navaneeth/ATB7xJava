@@ -20,12 +20,12 @@ public class Pract001_Triangle {
             int c = sc.nextInt();
 
             //if a=b=c -> Equilateral OR if a=b -> Isosceles Else Scalene
-            if (a == b && b == c)
-                System.out.println("Triangle is: Equilateral");
-            else if (a == b || a == c || b == c)
-                System.out.println("Triangle is: Isosceles");
+        if (a == b && b == c && c ==a )
+            System.out.println("Triangle is: Equilateral");
+        else  if (a == b || a == c || b == c) // Max condition should be checked 1st
+            System.out.println("Triangle is: Isosceles");
             else
-                System.out.println("\nTriangle is: Scalene");
+                System.out.println("Triangle is: Scalene");
 
             sc.close();
 
