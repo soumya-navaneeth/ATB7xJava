@@ -47,6 +47,8 @@ public class Lab064_CheckVowel {
 
             default:
                 System.out.println("Consonant");
+                sc.close();
+
         }
     }
 }
