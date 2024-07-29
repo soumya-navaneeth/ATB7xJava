@@ -30,7 +30,7 @@ public class Lab063_BrowserSelect {
             default:
                 System.out.println("I have not idea which browser is this");
                 break;
-                sc.close();
         }
+        sc.close();
     }
 }

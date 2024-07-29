@@ -41,8 +41,8 @@ public class Lab062_SwitchCondition {
             default:
                 System.out.println("Not Valid input");
                 break;
-            sc.close();
-
         }
+        sc.close();
+
     }
 }
