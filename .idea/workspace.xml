@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab008_ByteLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab009_Float.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab010_CharType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab011_CharType2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab012_VariableName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab013_Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab014_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015_Numbersystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab016_SimpleCalci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab083_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab084_WhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab085_FactorialProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab086_DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab087_WhileDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab088_MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab089_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab090_FunctionTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006_MultipleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006_MultipleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab007_DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab081_LoopBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21072024/Lab081_LoopBreakContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab082_PrintEvenOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21072024/Lab082_PrintEvenOddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,85 @@
     "Application.Lab014_Concat.executor": "Run",
     "Application.Lab015_Numbersystem.executor": "Run",
     "Application.Lab016_SimpleCalci.executor": "Run",
+    "Application.Lab017_LocalVariable.executor": "Run",
+    "Application.Lab018_FinalKeyword.executor": "Run",
+    "Application.Lab019_ModulusOperator.executor": "Run",
+    "Application.Lab020_ReservedKeyword.executor": "Run",
+    "Application.Lab021_EscapeChars.executor": "Run",
+    "Application.Lab022_EscChars2.executor": "Run",
+    "Application.Lab023_Literals.executor": "Run",
+    "Application.Lab024_UnaryOperator.executor": "Run",
+    "Application.Lab025_ArithmeticOperator.executor": "Run",
+    "Application.Lab026LogicalOperator.executor": "Run",
+    "Application.Lab027_CompundAssignment.executor": "Run",
+    "Application.Lab028_RelationalOperator.executor": "Run",
+    "Application.Lab029_BODMAS.executor": "Run",
+    "Application.Lab030_OperatorsRevision.executor": "Run",
+    "Application.Lab031_AssignmentOp.executor": "Run",
+    "Application.Lab032_DataTypeResult.executor": "Run",
+    "Application.Lab033_TypeCasting.executor": "Run",
+    "Application.Lab034_ImplicitTypeCast.executor": "Run",
+    "Application.Lab035_ExplicitTypeCast.executor": "Run",
+    "Application.Lab036_TypeCast2.executor": "Run",
+    "Application.Lab037_IncreDecrement.executor": "Run",
+    "Application.Lab038_Decrement.executor": "Run",
+    "Application.Lab039_IncreDecrementExamp.executor": "Run",
+    "Application.Lab040_IncDecrementExample.executor": "Run",
+    "Application.Lab041_ConcatString.executor": "Run",
+    "Application.Lab042_StringFunction.executor": "Run",
+    "Application.Lab043_SCPHeap.executor": "Run",
+    "Application.Lab045_NewOp.executor": "Run",
+    "Application.Lab045_StringNewOp.executor": "Run",
+    "Application.Lab046_StringEx.executor": "Run",
+    "Application.Lab047_StringConcat.executor": "Run",
+    "Application.Lab048_StringConcat2.executor": "Run",
+    "Application.Lab049_StringConcat3.executor": "Run",
+    "Application.Lab050_StringCharAt.executor": "Run",
+    "Application.Lab051_StringMethods.executor": "Run",
+    "Application.Lab052_StringSubString.executor": "Run",
+    "Application.Lab053_TernaryOperator.executor": "Run",
+    "Application.Lab054_MaxNumber.executor": "Run",
+    "Application.Lab055_LargestNumber.executor": "Run",
+    "Application.Lab056_MathClass.executor": "Run",
+    "Application.Lab057_IfElse.executor": "Run",
+    "Application.Lab058_IfElse2.executor": "Run",
+    "Application.Lab059_EvenOddNumbers.executor": "Run",
+    "Application.Lab061_GradeCalculator.executor": "Run",
+    "Application.Lab062_SwitchCondition.executor": "Run",
+    "Application.Lab063_BrowserSelect.executor": "Run",
+    "Application.Lab064_CheckVowel.executor": "Run",
+    "Application.Lab065_CheckVowel2.executor": "Run",
+    "Application.Lab066_Switch2.executor": "Run",
+    "Application.Lab067_Switch3.executor": "Run",
+    "Application.Lab068_Switch4.executor": "Run",
+    "Application.Lab069_SwitchYield.executor": "Run",
+    "Application.Lab070_PersonDetails.executor": "Run",
+    "Application.Lab071_Switch5.executor": "Run",
+    "Application.Lab072_PositiveNegative.executor": "Run",
+    "Application.Lab073_Largestof3.executor": "Run",
+    "Application.Lab074_CharOR.executor": "Run",
+    "Application.Lab075_ForLoop.executor": "Run",
+    "Application.Lab076_NestedFor.executor": "Run",
+    "Application.Lab077_Pyramid.executor": "Debug",
+    "Application.Lab078_InvertedPyramid.executor": "Run",
+    "Application.Lab079_ForChar.executor": "Run",
+    "Application.Lab080_LoopwithCondition.executor": "Run",
+    "Application.Lab081_LoopBreak.executor": "Run",
+    "Application.Lab081_LoopBreakContinue.executor": "Run",
+    "Application.Lab082_PrintEvenNumbers.executor": "Run",
+    "Application.Lab082_PrintEvenOddNumbers.executor": "Run",
+    "Application.Lab083_WhileLoop.executor": "Run",
+    "Application.Lab084_WhileExample.executor": "Run",
+    "Application.Lab085_FactorialProgram.executor": "Run",
+    "Application.Lab086_DoWhileLoop.executor": "Run",
+    "Application.Lab087_WhileDoWhile.executor": "Run",
+    "Application.Lab088_MathClass.executor": "Run",
+    "Application.Lab089_Functions.executor": "Run",
+    "Application.Lab090_FunctionTypes.executor": "Run",
+    "Application.Lab_060MaxNumber.executor": "Run",
+    "Application.Pract001_Triangle.executor": "Run",
+    "Application.Pract002_FizzBuzz.executor": "Run",
+    "Application.Pract003_LeapYear.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -90,13 +168,13 @@
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab013_Formatting">
-    <configuration name="Lab005_StngName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab005_StngName" />
+  <component name="RunManager" selected="Application.Lab090_FunctionTypes">
+    <configuration name="Lab086_DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab086_DoWhileLoop" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab012_VariableName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab012_VariableName" />
+    <configuration name="Lab087_WhileDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab087_WhileDoWhile" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab013_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab013_Formatting" />
+    <configuration name="Lab088_MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab088_MathClass" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab014_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab014_Concat" />
+    <configuration name="Lab089_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab089_Functions" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,25 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab015_Numbersystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab015_Numbersystem" />
+    <configuration name="Lab090_FunctionTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab090_FunctionTypes" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab016_SimpleCalci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab016_SimpleCalci" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab013_Formatting" />
-        <item itemvalue="Application.Lab016_SimpleCalci" />
-        <item itemvalue="Application.Lab015_Numbersystem" />
-        <item itemvalue="Application.Lab014_Concat" />
-        <item itemvalue="Application.Lab012_VariableName" />
+        <item itemvalue="Application.Lab090_FunctionTypes" />
+        <item itemvalue="Application.Lab089_Functions" />
+        <item itemvalue="Application.Lab088_MathClass" />
+        <item itemvalue="Application.Lab087_WhileDoWhile" />
+        <item itemvalue="Application.Lab086_DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +293,103 @@
       <option name="project" value="LOCAL" />
       <updated>1721580653215</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721586819543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721586819544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721586857124</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721586857124</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721673320047</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721673320047</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721673442879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721673442880</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721733708355</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721733708355</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721737028122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737028122</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721932854655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721932854655</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721985871774</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721985871775</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1721988758666</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721988758666</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722010262550</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722010262550</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722020446477</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722020446477</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722275819897</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722275819897</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,5 +397,51 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="Added new" />
     <option name="LAST_COMMIT_MESSAGE" value="Added new" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab033_TypeCasting.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
