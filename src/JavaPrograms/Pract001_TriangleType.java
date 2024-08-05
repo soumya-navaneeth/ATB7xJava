@@ -2,7 +2,7 @@ package JavaPrograms;
 
 import java.util.Scanner;
 
-public class Pract001_Triangle {
+public class Pract001_TriangleType {
     public static void main(String[] args) {
 /* Write a program that classifies a triangle based on its side lengths.
  Given three input values representing the lengths of the sides, determine
