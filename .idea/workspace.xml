@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab083_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab084_WhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab085_FactorialProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab086_DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab087_WhileDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab088_MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab089_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab090_FunctionTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/Pract011_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/Pract012_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab103_MainWithinClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab104_MainOutsideClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab105_ObjectInitializeRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/StudentClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab081_LoopBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21072024/Lab081_LoopBreakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab082_PrintEvenOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21072024/Lab082_PrintEvenOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/Pract004_TriangleStar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -154,10 +154,42 @@
     "Application.Lab088_MathClass.executor": "Run",
     "Application.Lab089_Functions.executor": "Run",
     "Application.Lab090_FunctionTypes.executor": "Run",
+    "Application.Lab091_Arrays.executor": "Run",
+    "Application.Lab092_Arrays2.executor": "Run",
+    "Application.Lab093_ArrayPrint.executor": "Run",
+    "Application.Lab093_Arrays3.executor": "Run",
+    "Application.Lab094_Array3.executor": "Run",
+    "Application.Lab095_FloatArray.executor": "Run",
+    "Application.Lab096_TraverseArray.executor": "Run",
+    "Application.Lab097_AvgMarksArray.executor": "Run",
+    "Application.Lab097_MarksArray.executor": "Run",
+    "Application.Lab098_MaxMinArray.executor": "Debug",
+    "Application.Lab098_SalaryArray.executor": "Run",
+    "Application.Lab099_MultiDimenArray.executor": "Run",
+    "Application.Lab100_MultiArray2.executor": "Run",
+    "Application.Lab101_StringBufferBuilder.executor": "Run",
+    "Application.Lab102_StringBufferBuilderExamp.executor": "Run",
+    "Application.Lab102_StringBuilderMethods.executor": "Run",
+    "Application.Lab103_ClassObjs (1).executor": "Run",
+    "Application.Lab103_ClassObjs.executor": "Run",
+    "Application.Lab104_MainOutsideClass.executor": "Run",
+    "Application.Lab105_ObjectInitializeRef.executor": "Run",
+    "Application.Lab106_ObjectInitializeMethod.executor": "Run",
     "Application.Lab_060MaxNumber.executor": "Run",
     "Application.Pract001_Triangle.executor": "Run",
     "Application.Pract002_FizzBuzz.executor": "Run",
     "Application.Pract003_LeapYear.executor": "Run",
+    "Application.Pract004_RightTriangleStar.executor": "Run",
+    "Application.Pract004_TriangleStar.executor": "Run",
+    "Application.Pract005_LeftTriangleStar.executor": "Run",
+    "Application.Pract005_SquareStar.executor": "Run",
+    "Application.Pract005_SquareStar2.executor": "Run",
+    "Application.Pract005_XStarPattern.executor": "Run",
+    "Application.Pract006_SecondLargest.executor": "Run",
+    "Application.Pract010_SecondLargest2.executor": "Run",
+    "Application.Pract011_ReverseString.executor": "Run",
+    "Application.Pract012_Palindrome.executor": "Run",
+    "Application.Student.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -165,16 +197,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex_28072024_ClassObj" />
+      <recent name="ex_27072024" />
+      <recent name="JavaPrograms" />
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab090_FunctionTypes">
-    <configuration name="Lab086_DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab086_DoWhileLoop" />
+  <component name="RunManager" selected="Application.Lab106_ObjectInitializeMethod">
+    <configuration name="Lab103_ClassObjs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lab103_ClassObjs" />
+      <module name="ATB7xJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab104_MainOutsideClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab104_MainOutsideClass" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab087_WhileDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab087_WhileDoWhile" />
+    <configuration name="Lab105_ObjectInitializeRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab105_ObjectInitializeRef" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab088_MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab088_MathClass" />
+    <configuration name="Lab106_ObjectInitializeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab106_ObjectInitializeMethod" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,25 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab089_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab089_Functions" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Student" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab090_FunctionTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab090_FunctionTypes" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab090_FunctionTypes" />
-        <item itemvalue="Application.Lab089_Functions" />
-        <item itemvalue="Application.Lab088_MathClass" />
-        <item itemvalue="Application.Lab087_WhileDoWhile" />
-        <item itemvalue="Application.Lab086_DoWhileLoop" />
+        <item itemvalue="Application.Lab106_ObjectInitializeMethod" />
+        <item itemvalue="Application.Lab105_ObjectInitializeRef" />
+        <item itemvalue="Application.Lab104_MainOutsideClass" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Lab103_ClassObjs (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +419,39 @@
       <option name="project" value="LOCAL" />
       <updated>1722275819897</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722445986191</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722445986191</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722446051378</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722446051378</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722878032223</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722878032223</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1722963195677</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722963195677</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -440,6 +502,16 @@
           <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_27072024/Lab098_MaxMinArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_27072024/Lab098_MaxMinArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
