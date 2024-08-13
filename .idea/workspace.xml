@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/Pract011_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/Pract012_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab103_MainWithinClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab104_MainOutsideClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab105_ObjectInitializeRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024_ClassObj/StudentClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/Pract004_TriangleStar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +166,8 @@
     "Application.Lab104_MainOutsideClass.executor": "Run",
     "Application.Lab105_ObjectInitializeRef.executor": "Run",
     "Application.Lab106_ObjectInitializeMethod.executor": "Run",
+    "Application.Lab107_Building.executor": "Run",
+    "Application.Lab108_Bank.executor": "Run",
     "Application.Lab_060MaxNumber.executor": "Run",
     "Application.Pract001_Triangle.executor": "Run",
     "Application.Pract002_FizzBuzz.executor": "Run",
@@ -203,21 +196,13 @@
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab106_ObjectInitializeMethod">
-    <configuration name="Lab103_ClassObjs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Lab103_ClassObjs" />
-      <module name="ATB7xJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab108_Bank">
     <configuration name="Lab104_MainOutsideClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab104_MainOutsideClass" />
+      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab104_MainOutsideClass" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +211,11 @@
       </method>
     </configuration>
     <configuration name="Lab105_ObjectInitializeRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab105_ObjectInitializeRef" />
+      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab105_ObjectInitializeRef" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +224,11 @@
       </method>
     </configuration>
     <configuration name="Lab106_ObjectInitializeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Lab106_ObjectInitializeMethod" />
+      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab106_ObjectInitializeMethod" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +236,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024_ClassObj.Student" />
+    <configuration name="Lab107_Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab107_Building" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab108_Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab108_Bank" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab108_Bank" />
+        <item itemvalue="Application.Lab107_Building" />
         <item itemvalue="Application.Lab106_ObjectInitializeMethod" />
         <item itemvalue="Application.Lab105_ObjectInitializeRef" />
         <item itemvalue="Application.Lab104_MainOutsideClass" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Lab103_ClassObjs (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +449,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722963195677</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723485369886</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723485369886</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723485447616</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723485447616</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723571658189</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723571658189</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -464,52 +486,52 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_13072024/Lab024_UnaryOperator.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_13072024/Lab024_UnaryOperator.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_13072024/Lab024_UnaryOperator.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab024_UnaryOperator.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_13072024/Lab024_UnaryOperator.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab033_TypeCasting.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_14072024/Lab033_TypeCasting.java</url>
           <line>15</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_21072024/Lab077_Pyramid.java</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_21072024/Lab077_Pyramid.java</url>
           <line>6</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab077_Pyramid.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_21072024/Lab077_Pyramid.java</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_27072024/Lab098_MaxMinArray.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java</url>
           <line>20</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_27072024/Lab098_MaxMinArray.java</url>
+          <url>file://$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java</url>
           <line>21</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
