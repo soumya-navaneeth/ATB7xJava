@@ -9,7 +9,7 @@ public class Lab098_MaxMinArray {
         System.out.println("Enter the Salaries");
         int salary[] = new int[6];
         for (int i = 0; i < salary.length; i++) {
-            System.out.println("Enter the Salary of Employee " +(i + 1)); //As index starts from 0, to show as subject 1
+            System.out.println("Enter the Salary of EmployeeCons " +(i + 1)); //As index starts from 0, to show as subject 1
             salary[i] = sc.nextInt();
         }
         int max = salary[0];;
@@ -22,8 +22,8 @@ public class Lab098_MaxMinArray {
                 min = salary[i];
             }
         }
-        System.out.println("Max Salary of an Employee:" +max);
-        System.out.println("Min Salary of an Employee:" +min);
+        System.out.println("Max Salary of an EmployeeCons:" +max);
+        System.out.println("Min Salary of an EmployeeCons:" +min);
 
 
         // Sort -> find the last one -

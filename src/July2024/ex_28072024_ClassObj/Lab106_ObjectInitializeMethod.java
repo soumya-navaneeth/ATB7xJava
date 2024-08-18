@@ -8,7 +8,7 @@ public class Lab106_ObjectInitializeMethod {
         Employee s2 = new Employee(); // New ref Variable s2 for the Object is created
         s1.insertRecord(222,"Soumya"); // Method is created in class & passing parameter to that class
         s2.insertRecord(333,"Bhavani");
-        s1.displayInformation(); // Calling the methods from Class Employee
+        s1.displayInformation(); // Calling the methods from Class EmployeeCons
         s2.displayInformation();
     }
 }

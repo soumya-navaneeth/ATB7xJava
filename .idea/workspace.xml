@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/Bike1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/EmployeeCons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab109_Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab109_Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab110_DefaultCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab110_DefaultCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab111_ParameterizedCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab111_ParameterizedCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/JavaPrograms/Pract009_SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/JavaPrograms/Pract009_SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +177,9 @@
     "Application.Lab106_ObjectInitializeMethod.executor": "Run",
     "Application.Lab107_Building.executor": "Run",
     "Application.Lab108_Bank.executor": "Run",
+    "Application.Lab109_Constructors.executor": "Run",
+    "Application.Lab110_DefaultCons.executor": "Run",
+    "Application.Lab111_ParameterizedCons.executor": "Run",
     "Application.Lab_060MaxNumber.executor": "Run",
     "Application.Pract001_Triangle.executor": "Run",
     "Application.Pract002_FizzBuzz.executor": "Run",
@@ -196,46 +208,7 @@
       <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab108_Bank">
-    <configuration name="Lab104_MainOutsideClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab104_MainOutsideClass" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab105_ObjectInitializeRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab105_ObjectInitializeRef" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab106_ObjectInitializeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab106_ObjectInitializeMethod" />
-      <module name="ATB7xJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab111_ParameterizedCons">
     <configuration name="Lab107_Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab107_Building" />
       <module name="ATB7xJava" />
@@ -262,13 +235,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab109_Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab109_Constructors" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab110_DefaultCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab110_DefaultCons" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab111_ParameterizedCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab111_ParameterizedCons" />
+      <module name="ATB7xJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab111_ParameterizedCons" />
+        <item itemvalue="Application.Lab110_DefaultCons" />
+        <item itemvalue="Application.Lab109_Constructors" />
         <item itemvalue="Application.Lab108_Bank" />
         <item itemvalue="Application.Lab107_Building" />
-        <item itemvalue="Application.Lab106_ObjectInitializeMethod" />
-        <item itemvalue="Application.Lab105_ObjectInitializeRef" />
-        <item itemvalue="Application.Lab104_MainOutsideClass" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +485,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723571658189</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723571795444</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723571795444</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723571967286</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1723571967286</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723572072554</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723572072554</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

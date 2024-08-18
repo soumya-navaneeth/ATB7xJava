@@ -10,7 +10,7 @@ public class Pract009_SecondLargest {
         System.out.println("Enter the Salaries");
         int list_sal[] = new int[6];
         for (int i = 0; i < list_sal.length; i++) {
-            System.out.println("Enter the Salary of Employee " +(i + 1)); //As index starts from 0, to show as subject 1
+            System.out.println("Enter the Salary of EmployeeCons " +(i + 1)); //As index starts from 0, to show as subject 1
             list_sal[i] = sc.nextInt();
         }
         int [] sort_sal = new int[6];
