@@ -1,4 +1,4 @@
-package Aug2024;
+package Aug2024.ex_04082024;
 
 public class Lab112_ParameterStudent {
     public static void main(String[] args) {

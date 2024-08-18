@@ -1,4 +1,4 @@
-package Aug2024;
+package Aug2024.ex_04082024;
 
 public class Bike1 {
     Bike1()

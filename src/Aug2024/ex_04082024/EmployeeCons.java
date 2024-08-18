@@ -1,4 +1,4 @@
-package Aug2024;
+package Aug2024.ex_04082024;
 
 public class EmployeeCons {
 // This is a class which has constructor also. It can have methods + Constructor also
