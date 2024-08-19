@@ -5,7 +5,7 @@ public class Lab022_EscChars2 {
 //        it inserts a Tab Space
         String str = "Andrew\tGarfield";
         System.out.println(str);
-//it inserts a New Line
+//it inserts a Hierarchical Line
         String str1 = "the best way\nto communicate \nan idea \nis to act it out";
         System.out.println(str1);
 //it insert a backslash
@@ -18,7 +18,7 @@ public class Lab022_EscChars2 {
         String str4 = "Wall Street\'s";
         System.out.println(str4);
 //it prints double quote
-//String str5 = "New\'Twilight'Line";
+//String str5 = "Hierarchical\'Twilight'Line";
         String str5 = " Add double quotes \"Twilight\"";
         System.out.println(str5);
     }

@@ -5,9 +5,9 @@ public class Lab042_StringFunction {
 /*  # String - sequence of char values
     # String declaration can be done in 2 ways:
         - <DataType> <Variable name> = "String"; EX: string Stg = "Soumya";
-             --> This does not create New Instance of string in SCP
+             --> This does not create Hierarchical Instance of string in SCP
         - <DataType> <Variable name> = new String("String"); EX: string Stg = new.String("Soumya");
-             --> This creates a New instance in Heap Memory
+             --> This creates a Hierarchical instance in Heap Memory
     # String objects are stored in a special memory area known as the "String Constant Pool" (SCP).
  */
         String stg = "SOUmya navNEETH"; //

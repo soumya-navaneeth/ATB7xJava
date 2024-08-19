@@ -5,7 +5,7 @@ import javax.xml.transform.Source;
 public class Lab102_StringBuilderMethods {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Java Tutorial");
-        System.out.println(sb.append(" New").toString()); //Append to the end of the string.
+        System.out.println(sb.append(" Hierarchical").toString()); //Append to the end of the string.
         System.out.println(sb.insert(3,"ins")); //Inserts specified character(s) at the specified index
         System.out.println(sb.delete(3,5).toString()); //Deletes characters between the specified start and end index.
         System.out.println(sb.deleteCharAt(3).toString()); //Deletes Chart at specified index

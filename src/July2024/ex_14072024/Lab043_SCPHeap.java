@@ -3,7 +3,7 @@ package July2024.ex_14072024;
 public class Lab043_SCPHeap {
     public static void main(String[] args) {
         String name = "Java"; // Assignment Operators
-        String name2 = new String("Java"); // New Operator
+        String name2 = new String("Java"); // Hierarchical Operator
 
         // Both of them, actually save the name, name2 in different ways JVM
         // How they store the values in the JVM?

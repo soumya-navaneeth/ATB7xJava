@@ -5,15 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464524c7-c0de-4b99-873a-cff6f0a552ee" name="Changes" comment="Added new">
-      <change afterPath="$PROJECT_DIR$/src/Aug2024/ATBPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug2024/Bike1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug2024/EmployeeCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab114_thisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab115_MultipleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/P1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/P2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/thisStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Car/BenzSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Car/CarSuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Car/Lab116_CarInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Employee/Lab118_Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Employee/QA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Simple/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Simple/Lab117_Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024_Inheritance/Single/Simple/Son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab109_Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab109_Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab110_DefaultCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab110_DefaultCons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug2024/Lab111_ParameterizedCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/Lab111_ParameterizedCons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/July2024/JavaPrograms/Pract009_SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/JavaPrograms/Pract009_SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab098_MaxMinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/ex_04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab112_ParameterStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab112_StudentParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab113_ParameterBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug2024/ex_04082024/Lab113_BankParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_13072024/Lab021_EscapeChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_13072024/Lab021_EscapeChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_13072024/Lab022_EscChars2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_13072024/Lab022_EscChars2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_14072024/Lab042_StringFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_14072024/Lab042_StringFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_14072024/Lab043_SCPHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_14072024/Lab043_SCPHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab101_StringBufferBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab101_StringBufferBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab102_StringBuilderMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_27072024/Lab102_StringBuilderMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab103_MainWithinClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab103_MainWithinClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab104_MainOutsideClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab104_MainOutsideClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab105_ObjectInitializeRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab105_ObjectInitializeRef.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/July2024/ex_28072024_ClassObj/Lab106_ObjectInitializeMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +198,12 @@
     "Application.Lab109_Constructors.executor": "Run",
     "Application.Lab110_DefaultCons.executor": "Run",
     "Application.Lab111_ParameterizedCons.executor": "Run",
+    "Application.Lab112_ParameterStudent.executor": "Run",
+    "Application.Lab113_ParameterBank.executor": "Run",
+    "Application.Lab114_thisKeyword.executor": "Run",
+    "Application.Lab116_SingleInheritance.executor": "Run",
+    "Application.Lab117_Simple.executor": "Run",
+    "Application.Lab118_Company.executor": "Run",
     "Application.Lab_060MaxNumber.executor": "Run",
     "Application.Pract001_Triangle.executor": "Run",
     "Application.Pract002_FizzBuzz.executor": "Run",
@@ -201,20 +225,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Aug2024" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aug2024.ex_04082024.P2" />
+      <recent name="Aug2024.ex_04082024.P1" />
       <recent name="ex_28072024_ClassObj" />
       <recent name="ex_27072024" />
       <recent name="JavaPrograms" />
-      <recent name="ex_07072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab111_ParameterizedCons">
-    <configuration name="Lab107_Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab107_Building" />
+  <component name="RunManager" selected="Application.Lab118_Company">
+    <configuration name="Lab113_BankParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.ex_04082024.Lab113_BankParam" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="Aug2024.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab108_Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July2024.ex_28072024_ClassObj.Lab108_Bank" />
+    <configuration name="Lab114_thisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.ex_04082024.Lab114_thisKeyword" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="July2024.ex_28072024_ClassObj.*" />
+          <option name="PATTERN" value="Aug2024.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab109_Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab109_Constructors" />
+    <configuration name="Lab116_CarInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.ex_04082024_Inheritance.Single.Car.Lab116_CarInherit" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aug2024.*" />
+          <option name="PATTERN" value="Aug2024.ex_04082024_Inheritance.Single.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab110_DefaultCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab110_DefaultCons" />
+    <configuration name="Lab117_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.ex_04082024_Inheritance.Single.Simple.Lab117_Simple" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aug2024.*" />
+          <option name="PATTERN" value="Aug2024.ex_04082024_Inheritance.Single.Simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab111_ParameterizedCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aug2024.Lab111_ParameterizedCons" />
+    <configuration name="Lab118_Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug2024.ex_04082024_Inheritance.Single.Employee.Lab118_Company" />
       <module name="ATB7xJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aug2024.*" />
+          <option name="PATTERN" value="Aug2024.ex_04082024_Inheritance.Single.Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab111_ParameterizedCons" />
-        <item itemvalue="Application.Lab110_DefaultCons" />
-        <item itemvalue="Application.Lab109_Constructors" />
-        <item itemvalue="Application.Lab108_Bank" />
-        <item itemvalue="Application.Lab107_Building" />
+        <item itemvalue="Application.Lab118_Company" />
+        <item itemvalue="Application.Lab117_Simple" />
+        <item itemvalue="Application.Lab116_CarInherit" />
+        <item itemvalue="Application.Lab114_thisKeyword" />
+        <item itemvalue="Application.Lab113_BankParam" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +537,39 @@
       <option name="project" value="LOCAL" />
       <updated>1723572072554</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723960181827</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960181827</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723960207139</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960207139</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723963587034</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1723963587034</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added new">
+      <option name="closed" value="true" />
+      <created>1723963654897</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1723963654897</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

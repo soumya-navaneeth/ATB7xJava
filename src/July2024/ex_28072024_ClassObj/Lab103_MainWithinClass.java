@@ -17,7 +17,7 @@ package July2024.ex_28072024_ClassObj;
 
     //creating main method inside the Student class
     public static void main(String[] args) {
-        Student s1 = new Student(); // creating an object of the class student using New keyword
+        Student s1 = new Student(); // creating an object of the class student using Hierarchical keyword
 //  Print the Values
         System.out.println("Before assigning values");
         System.out.println("ID: " + s1.id);

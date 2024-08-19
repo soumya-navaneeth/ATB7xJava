@@ -2,8 +2,9 @@ package Aug2024.ex_04082024;
 
 import java.util.Scanner;
 
-public class Lab113_ParameterBank {
+public class Lab113_BankParam {
     public static void main(String[] args) {
+
 
         BankAccount ba1 = new BankAccount(); // Calls Default Constructor since no parameters
 

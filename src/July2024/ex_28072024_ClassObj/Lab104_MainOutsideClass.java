@@ -3,7 +3,7 @@ package July2024.ex_28072024_ClassObj;
 public class Lab104_MainOutsideClass {
     public static void main(String[] args) {
 //   This StudentClass is outside this Class
-        StudentClass s1 = new StudentClass(); // creating an object of the class student using New keyword
+        StudentClass s1 = new StudentClass(); // creating an object of the class student using Hierarchical keyword
 
 //  Print the Values
         System.out.println("Before assigning values");

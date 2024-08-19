@@ -1,4 +1,4 @@
-package Aug2024.ex_04082024;
+package Aug2024.ex_04082024.P1;
 
 public class BankAccount {
     String bankName;
@@ -23,7 +23,7 @@ public class BankAccount {
         this.bankCode = bCode;
     }
 
-    BankAccount(String bName,int Bbal){
+    BankAccount(String bName, int Bbal){
         this.bankName = bName;
         this.balance = Bbal;
 

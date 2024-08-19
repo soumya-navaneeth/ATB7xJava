@@ -1,4 +1,4 @@
-package Aug2024.ex_04082024;
+package Aug2024.ex_04082024.P2;
 
 public class BankAccount {
     String bankName;
@@ -6,7 +6,7 @@ public class BankAccount {
     String bankCode; // Instance
 
     // DC
-    BankAccount(){
+    public BankAccount(){
         System.out.println("Default Constructor");
         bankName = "SBI";
         balance = 0;
@@ -23,7 +23,7 @@ public class BankAccount {
         this.bankCode = bCode;
     }
 
-    BankAccount(String bName,int Bbal){
+    BankAccount(String bName, int Bbal){
         this.bankName = bName;
         this.balance = Bbal;
 

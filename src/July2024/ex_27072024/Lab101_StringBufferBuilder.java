@@ -16,7 +16,7 @@ public class Lab101_StringBufferBuilder {
 
         String s1 = "Java";
         s1 = "Tutorial";
-        System.out.println(s1); // S1 is changed to New value "Tutorial"
+        System.out.println(s1); // S1 is changed to Hierarchical value "Tutorial"
 
         // change the value of string - Buffer
         StringBuffer sb = new StringBuffer("Soumya");
